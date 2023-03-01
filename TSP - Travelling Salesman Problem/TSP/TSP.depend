@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1617364049 source:c:\users\smaheshwari\desktop\tsp\tsp\main.cpp
+	<iostream>
+	<vector>
+
